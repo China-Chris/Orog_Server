@@ -1,3 +1,5 @@
+
+
 # OROG Project
 OROG.ai backend core logic implement
 
@@ -5,7 +7,7 @@ OROG.ai backend core logic implement
 ## 1. 运行前配置
 你需要在一下几个地方将配置
 app/etc/app-api.yaml
-rpcx/account/etc/account/yaml
+rpcx/account/etc/account.yaml
 rpcx/chains/sol/etc/sol.yaml
 rpcx/ws/etc/ws.yaml
 
